@@ -1,0 +1,42 @@
+{
+  "name": "ドシャグマヘルム",
+  "series": "ドシャグマ",
+  "part": "頭",
+  "rank": "下位",
+  "defense": {
+    "base": 20,
+    "max": 40,
+    "augment": 60
+  },
+  "resistance": {
+    "fire": -2,
+    "water": 1,
+    "thunder": 0,
+    "ice": 2,
+    "dragon": -1
+  },
+  "slots": [1, 0, 0],
+  "skills": [
+    {
+      "name": "攻撃",
+      "level": 1
+    },
+    {
+      "name": "体力増強",
+      "level": 1
+    }
+  ],
+  "crafting": {
+    "materials": [
+      {
+        "item": "ドシャグマの毛皮",
+        "quantity": 2
+      },
+      {
+        "item": "怪力の種",
+        "quantity": 1
+      }
+    ],
+    "zenny": 1200
+  }
+}
