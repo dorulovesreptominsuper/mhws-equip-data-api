@@ -2,7 +2,7 @@
 自分や友人が使用する想定のモンスターハンターワイルズのスキルシミュレータのモバイルアプリです。
 
 ## 使用技術
-Kotlin Multiplatform
+Kotlin Multiplatform<br>
 Compose Multiplatform
 
 ## このプロジェクトの目的
